@@ -1,0 +1,12 @@
+#Fundamental data types
+n1= float(input("Enter a number: "))
+n2= float(input ("Enter second number: "))
+print(f'Sum= {(n1+n2)}')
+print(f'Difference= {(n1-n2)}')
+print(f'Multiplication= {(n1*n2)}')
+print(f'Division= {(n1/n2)}')
+print(f'Remainder= {(n1%n2)}')
+print(f'Integer part only= {(n1//n2)}')
+n1=int(input("Enter the number : "))
+n2=int(input("Enter the power number: "))
+print(f'Power of= {(n1**n2)}')
