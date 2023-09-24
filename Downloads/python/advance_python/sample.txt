@@ -1,0 +1,2 @@
+This is a new content to write to the file.
+This is appended content.
