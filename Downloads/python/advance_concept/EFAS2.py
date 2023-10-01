@@ -1,3 +1,4 @@
+# Extended Function as argument syntax
 def extended_args_example(*args, **kwargs):
     print("Positional arguments:")
     for arg in args:

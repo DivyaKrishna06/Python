@@ -1,3 +1,4 @@
+# Extended argument syntax
 def func(arg1, arg2, *args, kwarg1, **kwargs):
     print("Type of arg1:", type(arg1))
     print("Value of arg1:", arg1)
